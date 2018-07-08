@@ -20,7 +20,7 @@ while (i< facts.length){
 return shoutedFacts
 }
 
-function iLoveTheBeatles(n){
+function iLoveTheBeatles(i){
   var array = []
   do {
     array.push('I love the Beatles !')
